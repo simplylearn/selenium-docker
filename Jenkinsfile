@@ -1,5 +1,5 @@
 pipeline{
-	agent one
+	agent none
 	stages{
 	    stage('Build Jar'){
 	    	agent {
