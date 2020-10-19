@@ -25,7 +25,7 @@ pipeline{
 			script {
 			docker.withRegistry('https://registry.hub.docker.com','dockerhub')  {
 			app.push("${BUILD_NUMBER}")
-			APP.PUSH("latest")
+			app.push("latest")
 			}
 			
 		}
