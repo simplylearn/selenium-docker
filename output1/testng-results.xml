@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="6611" started-at="2020-10-17T12:07:35Z" finished-at="2020-10-17T12:07:42Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="6611" started-at="2020-10-17T12:07:35Z" finished-at="2020-10-17T12:07:42Z">
+      <class name="gridtest.Launchbrowser">
+        <test-method status="PASS" signature="before()[pri:0, instance:gridtest.Launchbrowser@67784306]" name="before" is-config="true" duration-ms="598" started-at="2020-10-17T12:07:35Z" finished-at="2020-10-17T12:07:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="test()[pri:0, instance:gridtest.Launchbrowser@67784306]" name="test" duration-ms="1960" started-at="2020-10-17T12:07:36Z" finished-at="2020-10-17T12:07:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test()[pri:0, instance:gridtest.Launchbrowser@67784306]" name="test" duration-ms="2167" started-at="2020-10-17T12:07:38Z" finished-at="2020-10-17T12:07:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test()[pri:0, instance:gridtest.Launchbrowser@67784306]" name="test" duration-ms="1813" started-at="2020-10-17T12:07:40Z" finished-at="2020-10-17T12:07:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="after()[pri:0, instance:gridtest.Launchbrowser@67784306]" name="after" is-config="true" duration-ms="63" started-at="2020-10-17T12:07:42Z" finished-at="2020-10-17T12:07:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- gridtest.Launchbrowser -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

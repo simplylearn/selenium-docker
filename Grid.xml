@@ -19,7 +19,7 @@
 		</classes>
 
 	</test>
-
+<!--  
 	<test name=" test Node3">
 		<classes>
 			<class name="gridtest.Launchbrowser" />
@@ -27,7 +27,7 @@
 		</classes>
 
 	</test>
-
+-->
 
 </suite>
 
